@@ -1,7 +1,7 @@
 /* Hello world - using a pure component */
 
 const NestedComponent = () => (
-  <h1>Hello World!</h1>
+  <h1>Hi Jon!</h1>
 );
 
 const renderHelloWorld = () => {
@@ -17,4 +17,3 @@ const renderHelloWorld = () => {
 };
 
 addLink("Hello World", renderHelloWorld);
-
